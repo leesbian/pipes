@@ -1,0 +1,43 @@
+{
+  "name": "pipes",
+  "version": "0.1.0",
+  "author": "Lee Bolding <lee@leesbian.net> (http://leesbian.github.com)",
+  "description": "A language of pipes, cos pipes are cool",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leesbian/pipes.git"
+  },
+  "keywords": [
+    "pipes"
+  ],
+  "homepage": "http://leesbian.github.com/pipes",
+  "scripts": {},
+  "contributors": [
+    {
+      "name": "Lee Bolding",
+      "email": "lee@leesbian.net"
+    },
+    {
+      "name": "Pavan Kumar Sunkara",
+      "email": "pavan.sss1991@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.6.4"
+  },
+  "bugs": {
+    "url": "https://github.com/leesbian/pipes/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/leesbian/pipes/raw/master/LICENSE"
+    }
+  ],
+  "bin": {
+    "pipes": "./pipes"
+  },
+  "main": ""
+}
